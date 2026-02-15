@@ -5,7 +5,7 @@ export const projects = [
     title: "Resume Builder Application",
     description:
       "Engineered backend APIs for HTML-to-PDF conversion using Node.js, enabling 5,000+ users to generate resumes seamlessly. Includes a comprehensive admin panel for template management.",
-    image: "src/assests/images/resume-builder.webp",
+    image: "/images/resume-builder.webp",
     tags: ["Node.js", "MySQL", "HTML-to-PDF", "Admin Panel", "React.js", "Bootstrap"],
 
     links: {
@@ -20,7 +20,7 @@ export const projects = [
     title: "Mehndi Application",
     description:
       "Developed scalable Node.js/Express APIs handling 500+ concurrent user requests with performance optimization. Features a comprehensive admin panel for content management.",
-    image: "src/assests/images/mehndi.png",
+    image: "/images/mehndi.png",
     tags: ["Node.js", "Express.js", "MySQL", "React.js", "Bootstrap", "AWS S3"],
 
     links: {
@@ -35,7 +35,7 @@ export const projects = [
     title: "Law Application",
     description:
       "High-performance Node.js/Express APIs handling authenticated (JWT) and guest users. Includes secure session management and an admin panel for activity/content monitoring.",
-    image: "src/assests/images/law-app.jpg",
+    image: "/images/law-app.jpg",
     tags: ["Node.js", "Express.js", "MySQL", "JWT", "Security", "React.js", "Bootstrap"],
 
     links: {
@@ -49,7 +49,7 @@ export const projects = [
     id: 4,
      title: "Eduraan Application",
     description:"Built a secure backend API for an educational platform with JWT authentication, role-based access control for UI customization, and a dynamic admin dashboard for managing courses and resources.",
-    image: "src/assests/images/eduraan.jpg",
+    image: "/images/eduraan.jpg",
     tags: ["Node.js", "MySQL", "JWT", "RESTful APIs", "React.js", "Bootstrap"],
 
     links: {
@@ -65,7 +65,7 @@ export const projects = [
     title: "Queue Management System",
     description:
       "Desktop-based QMS using Electron.js with React/Node/MySQL. Features real-time SSE notifications for queue updates, task management, and visual performance reports.",
-    image: "src/assests/images/qms1.png",
+    image: "/images/qms1.png",
     tags: ["Electron.js", "React.js", "Node.js", "MySQL", "SSE", "Bootstrap"],
 
     links: {
@@ -80,7 +80,7 @@ export const projects = [
     title: "Biometric System (Prototype)",
     description:
       "Cross-platform desktop app for facial recognition authentication. Built with Electron.js/React frontend and Node.js/Express backend for secure logging and data management.",
-    image: "src/assests/images/biometric.png",
+    image: "/images/biometric.png",
     tags: ["Electron.js", "React.js", "Face Recognition", "Node.js"],
 
     links: {
